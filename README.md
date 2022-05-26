@@ -1,6 +1,6 @@
 - 👋 Hi, I’m RashaAlshawi
-- 👀 I’m interested in Machine learning,Deep learning in computer vision
-- 🌱 I’m currently l Ph.D. student at the university of New Orlanse
+- 👀 I’m interested in Machine learning,Deep learning, computer vision, NLP.
+- 🌱 I’m currently a Ph.D. student at the university of New Orlanse
 - 💞️ 
 - 📫reach me at rralshaw@uno.edu
 
