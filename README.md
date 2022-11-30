@@ -1,4 +1,4 @@
-- 👋 Hi, I’m RashaAlshawi
+- 👋 Hi, I’m Rasha Alshawi
 - 👀 I’m interested in Machine learning,Deep learning, Computer Vision, NLP.
 - 🌱 I’m currently a Ph.D. candidate at the university of New Orlanse
 - 💞️ 
