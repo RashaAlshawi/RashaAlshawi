@@ -8,4 +8,4 @@ I'm a Ph.D. candidate at the University of New Orleans, passionate about advanci
 
 ### 🔗 Connect with me
 - 📫 Email: rralshaw@uno.edu, rralshaw@gmail.com,
-- 🌐 [LinkedIn](https://www.linkedin.com/in/rasha-alshawi-m-s-62047b10a/))
+- 🌐 [LinkedIn](https://www.linkedin.com/in/rasha-alshawi-m-s-62047b10a/)
